@@ -1,0 +1,7 @@
+@media(max-width: 1200px) and (min-width: 767px) {
+	.content-section {
+		height: auto;
+		width: 100%;
+		padding-top: 50px
+	}
+}
